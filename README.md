@@ -13,9 +13,9 @@
 
 <br/>
 
-<img src="./screenshots/0.png" alt="demo"/>
-<img src="./screenshots/1.png" alt="demo"/>
-<img src="./screenshots/2.png" alt="demo"/>
-<img src="./screenshots/4.png" alt="demo"/>
-<img src="./screenshots/5.png" alt="demo"/>
+<img src="./screenshots/0.PNG" alt="demo"/>
+<img src="./screenshots/1.PNG" alt="demo"/>
+<img src="./screenshots/2.PNG" alt="demo"/>
+<img src="./screenshots/4.PNG" alt="demo"/>
+<img src="./screenshots/5.PNG" alt="demo"/>
 
