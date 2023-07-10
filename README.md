@@ -1,4 +1,4 @@
-## Dad Jokes App
+## Technical Fest Mock Template
 
 <b>Built with</b> 
 
